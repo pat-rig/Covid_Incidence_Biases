@@ -4,4 +4,4 @@
 
 ## `de_biasing.ipynb` contains the Code for Section 3.1
 
-## All other Figures and Statistics are Computed in biases.ipynb`
+## All other Figures and Statistics are Computed in `biases.ipynb`
